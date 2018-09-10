@@ -1,0 +1,8 @@
+main starts one room
+
+main manages the calls to the rooms
+
+
+engine starts the game
+
+engine has a while true loop that calls the next room

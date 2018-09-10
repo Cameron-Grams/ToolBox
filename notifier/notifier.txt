@@ -1,0 +1,10 @@
+web-sockets: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
+
+  - socket.io is the node library to use the web-sockets; creates a listening event in the event loop
+
+socket.io has a socket function that wraps the server
+
+socket.io has an .on() function that is a node core event 
+    ( LEARN -> https://nodejs.org/api/events.html#events_events )
+
+
