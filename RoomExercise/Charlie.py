@@ -2,7 +2,7 @@ from Room import Room
 
 class Charlie( Room ):
     def enter( self ):
-        print( "In room Bravo" )
+        print( "In room Charlie" )
 
         print( "Enter either A, B, C, or D." )
         print( "Enter choice: " ) 
